@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RandomRobot
+comment0.text=\r\n\ Le\ RandomRobot\ est\ un\ robot\ qui\ se\ d\u00E9place\ al\u00E9atoirement\r\n\ sur\ une\ des\ cases\ adjacentes.\r\n\r\n\ @author\ Alexandre\ DUGUET\r\n\ @version\ 02/11/2023\r\n
+comment1.params=
+comment1.target=RandomRobot()
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ RandomRobot\r\n
+comment2.params=
+comment2.target=void\ move()
+comment2.text=\r\n\ Allows\ the\ robot\ to\ move\ randomly\ to\ one\ of\ the\ adjacent\ \r\n\ square\r\n\r\n
+numComments=3

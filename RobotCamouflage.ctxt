@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RobotCamouflage
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ RobotCamouflage\ ici.\r\n\ ce\ robot\ va\ longe\ le\ canvas\ \r\n\ @author\ Abiga\u00EBl\ FUENTES\ \r\n\ @version\ 31/10/23\r\n
+comment1.params=
+comment1.target=RobotCamouflage()
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ RobotCamouflage\r\n
+comment2.params=
+comment2.target=void\ move()
+numComments=3

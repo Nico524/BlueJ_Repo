@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=DashBot
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ DashBot\ ici.\r\nThe\ DashBot\ is\ just\ a\ basical\ robot\ that\ can\ move\ 1\ square\ by\ 1.\ \r\n\ He\ also\ has\ a\ little\ probability\ to\ move\ of\ 3\ square\ \r\n\ @Nicolas\ Bonneau\r\n\ @Group\ 5\ 01/11/2023\r\n
+comment1.params=
+comment1.target=DashBot()
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ DashBot\r\n
+comment2.params=
+comment2.target=void\ move()
+comment2.text=\r\n\ Method\ that\ give\ that\ choose\ randomly\ the\ type\ of\ movement\ of\ the\ bot\ in\ function\ of\ a\ probability\r\n
+comment3.params=
+comment3.target=void\ dashHaut()
+comment3.text=\r\n\ Robot\ can\ dash\ up\r\n
+comment4.params=
+comment4.target=void\ dashBas()
+comment4.text=\r\n\ Robot\ can\ dash\ down\r\n
+comment5.params=
+comment5.target=void\ dashDroite()
+comment5.text=\r\n\ Robot\ can\ dash\ right\r\n
+comment6.params=
+comment6.target=void\ dashGauche()
+comment6.text=\r\n\ Robot\ can\ dash\ left\r\n
+numComments=7

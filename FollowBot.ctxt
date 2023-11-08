@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FollowBot
+comment0.text=\r\n\ FollowBot\ is\ a\ kind\ of\ robot\ who\ follows\ the\ nearest\ robot\ in\ there\ world.\r\n\r\n\r\n\ @author\ (Dutheil\ Kylian)\r\n\ @version\ (31/10/2023)\r\n
+comment1.params=
+comment1.target=FollowBot()
+comment1.text=\r\n\ FollowBot\ constructor\r\n
+comment2.params=
+comment2.target=void\ move()
+comment2.text=\r\n\ compares\ the\ positions\ of\ each\ bot\ in\ the\ world\ and\ targets\ the\ nearest\r\n\ else\ does\ not\ move\r\n
+numComments=3

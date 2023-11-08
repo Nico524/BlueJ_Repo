@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=RobotPompette
+comment0.text=\r\n\ Le\ RobotPompette\ se\ d\u00E9place\ en\ diagonale.\ Il\ peut\ prendre\ a\ boire\ (de\ la\ menthe\ pastille)\ se\ qui\ le\ rend\ pompette.\ \r\n\ Plus\ le\ robot\ est\ pompette,\ plus\ il\ a\ de\ chances\ de\ ne\ pas\ pouvoir\ bouger.\ Il\ peut\ \u00E9gallement\ redevenir\ sobre\ \r\n\ (quand\ le\ robot\ ne\ peut\ plus\ bouger)\r\n\r\n\ @Nathan\ Aubineau\r\n\ @Group\ 5\ 18/10/2023\r\n
+comment1.params=
+comment1.target=RobotPompette()
+comment1.text=\r\n\ Constructeur\ d'objets\ de\ classe\ RobotPompette\r\n
+comment2.params=
+comment2.target=void\ getMenthePastille()
+comment2.text=\r\n\ Being\ more\ pompette\r\nfor\ each\ method\ call\:\ 20%\ of\ not\ moving\r\n
+comment3.params=Pompette
+comment3.target=void\ setPompette(int)
+comment3.text=\r\n\ Set\ the\ level\ of\ pompette\r\n
+comment4.params=
+comment4.target=int\ getPompette()
+comment4.text=\r\n\ Evaluate\ the\ level\ of\ pompette\r\n\r\n\ @return\ level\ of\ pompette\r\n
+comment5.params=
+comment5.target=void\ DevenirSobre()
+comment5.text=\r\n\ Reset\ the\ level\ of\ pompette\r\n\r\n
+comment6.params=
+comment6.target=void\ move()
+comment6.text=\r\n\ Move\ the\ robot\ in\ diagonal.\ There's\ a\ probability\ of\ not\ moving\ (pompette*10\ %)\r\n\r\n
+numComments=7
